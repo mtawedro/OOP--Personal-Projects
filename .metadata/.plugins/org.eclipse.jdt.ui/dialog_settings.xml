@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="filter_imports;" key="filters_last_used"/>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+		<item value="false" key="renameSubpackages"/>
+		<item value="false" key="updateQualifiedNames"/>
+		<item value="*" key="patterns"/>
+		<item value="false" key="updateTextualMatches"/>
+	</section>
+	<section name="RefactoringWizard.preview">
+		<item value="600" key="width"/>
+		<item value="400" key="height"/>
+	</section>
+	<section name="javadoc">
+		<item value="public" key="access"/>
+		<item value="false" key="noindex"/>
+		<item value="C:\Users\TINA\workspace\Stock_Project_Part3_Final\javadoc.xml" key="antpath"/>
+		<item value="false" key="nodeprecatedlist"/>
+		<item value="true" key="use"/>
+		<item value="true" key="author"/>
+		<item value="false" key="nodeprecated"/>
+		<item value="false" key="nonavbar"/>
+		<item value="" key="docletpath"/>
+		<item value="C:\Program Files\Java\jdk1.8.0_141\bin\javadoc.exe" key="javadoc_command_history"/>
+		<item value="1.8" key="source"/>
+		<item value="true" key="version"/>
+		<item value="mtawedro_a1" key="doctitle"/>
+		<item value="" key="docletname"/>
+		<item value="true" key="splitindex"/>
+		<item value="true" key="fromStandard"/>
+		<item value="false" key="notree"/>
+		<item value="C:\Users\TINA\workspace\Stock_Project_Part3_Final\doc" key="destdir"/>
+		<item value="true" key="openinbrowser"/>
+		<section name="projects">
+			<section name="arrays3">
+				<item value="C:\FilesAndArrays\arrays3\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\arrays3\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="arrays2">
+				<item value="C:\FilesAndArrays\arrays3\arrays2\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\arrays3\arrays2\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="arrays5">
+				<item value="C:\FilesAndArrays\arrays5\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\arrays5\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="IAHTE">
+				<item value="C:\FilesAndArrays\IAHTE\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\IAHTE\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Stock_Project_Part3_Final">
+				<item value="C:\Users\TINA\workspace\Stock_Project_Part3_Final\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\TINA\workspace\Stock_Project_Part3_Final\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="arrays4">
+				<item value="C:\FilesAndArrays\arrays4\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\arrays4\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="arrays7">
+				<item value="C:\FilesAndArrays\arrays7\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\arrays7\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="arrays6">
+				<item value="C:\FilesAndArrays\arrays6\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\arrays6\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Friends">
+				<item value="C:\FilesAndArrays\Friends\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\Friends\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="arrays9">
+				<item value="C:\FilesAndArrays\arrays9\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\arrays9\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="arrays8">
+				<item value="C:\FilesAndArrays\arrays8\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\arrays8\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="FBI Project">
+				<item value="C:\FilesAndArrays\FBI Project\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\FBI Project\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Culminating">
+				<item value="C:\FilesAndArrays\Culminating\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\Culminating\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="prac">
+				<item value="C:\FilesAndArrays\prac\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\prac\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="pac">
+				<item value="C:\FilesAndArrays\pac\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\pac\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="TICTACTOE">
+				<item value="C:\FilesAndArrays\TICTACTOE\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\TICTACTOE\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Book">
+				<item value="C:\Users\TINA\workspace\Book\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\TINA\workspace\Book\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="FBITokens">
+				<item value="C:\FilesAndArrays\FBITokens\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\FBITokens\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="TicTacMath">
+				<item value="C:\FilesAndArrays\TicTacMath\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\TicTacMath\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="fileFBI">
+				<item value="C:\FilesAndArrays\fileFBI\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\fileFBI\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Discrete2910">
+				<item value="C:\Users\TINA\workspace\Discrete2910\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\TINA\workspace\Discrete2910\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Discrete2910_P2">
+				<item value="C:\Users\TINA\workspace\Discrete2910_P2\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\TINA\workspace\Discrete2910_P2\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Dog">
+				<item value="C:\FilesAndArrays\Dog\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\Dog\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="MTCounter">
+				<item value="C:\FilesAndArrays\MTCounter\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\MTCounter\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="test">
+				<item value="C:\FilesAndArrays\test\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\test\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="reverseName">
+				<item value="C:\FilesAndArrays\reverseName\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\reverseName\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="arrays10">
+				<item value="C:\FilesAndArrays\arrays10\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\arrays10\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="arrays11">
+				<item value="C:\FilesAndArrays\arrays11\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\arrays11\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Student">
+				<item value="C:\FilesAndArrays\Student\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\Student\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="MTShapes">
+				<item value="C:\FilesAndArrays\MTShapes\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\MTShapes\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Stock_Project_Part1_Final">
+				<item value="C:\Users\TINA\workspace\Stock_Project_Part1_Final\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\TINA\workspace\Stock_Project_Part1_Final\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Binary">
+				<item value="C:\Users\TINA\workspace\Binary\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\TINA\workspace\Binary\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="arrays">
+				<item value="C:\FilesAndArrays\arrays\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\arrays\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="TestTicTacToe">
+				<item value="C:\FilesAndArrays\TestTicTacToe\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\TestTicTacToe\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Stock">
+				<item value="C:\Users\TINA\workspace\Stock\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\TINA\workspace\Stock\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Lab1">
+				<item value="C:\Users\TINA\workspace\Lab1\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\TINA\workspace\Lab1\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Lab2">
+				<item value="C:\Users\TINA\workspace\Lab2\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\TINA\workspace\Lab2\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Lab3">
+				<item value="C:\Users\TINA\workspace\Lab3\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\TINA\workspace\Lab3\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="ExamPrep">
+				<item value="C:\Users\TINA\workspace\ExamPrep\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\TINA\workspace\ExamPrep\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="function2">
+				<item value="C:\FilesAndArrays\function2\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\function2\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="CombinationLock">
+				<item value="C:\FilesAndArrays\CombinationLock\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\CombinationLock\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="LeastGreatest">
+				<item value="C:\FilesAndArrays\LeastGreatest\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\LeastGreatest\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Review">
+				<item value="C:\FilesAndArrays\Review\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\Review\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Stock_Project">
+				<item value="C:\Users\TINA\workspace\Stock_Project\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\TINA\workspace\Stock_Project\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="RemoteSystemsTempFiles">
+				<item value="C:\Users\TINA\workspace\RemoteSystemsTempFiles\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\TINA\workspace\RemoteSystemsTempFiles\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="CardLay_Real">
+				<item value="C:\Users\TINA\workspace\CardLay_Real\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\TINA\workspace\CardLay_Real\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="MT_Suspect">
+				<item value="C:\FilesAndArrays\MT_Suspect\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\MT_Suspect\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="prac2910">
+				<item value="C:\Users\TINA\workspace\prac2910\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\TINA\workspace\prac2910\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="prac2">
+				<item value="C:\FilesAndArrays\prac2\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\prac2\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="tokens">
+				<item value="C:\FilesAndArrays\tokens\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\tokens\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="FilesAndArrays">
+				<item value="C:\FilesAndArrays\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="pracicecc">
+				<item value="C:\FilesAndArrays\pracicecc\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\pracicecc\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="MTDeadlyDesert">
+				<item value="C:\FilesAndArrays\MTDeadlyDesert\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\MTDeadlyDesert\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Stock_Project_Part2_Final">
+				<item value="C:\Users\TINA\workspace\Stock_Project_Part2_Final\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\TINA\workspace\Stock_Project_Part2_Final\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="InvestPrac">
+				<item value="C:\Users\TINA\workspace\InvestPrac\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\TINA\workspace\InvestPrac\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="helloo">
+				<item value="C:\FilesAndArrays\helloo\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\helloo\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="teting">
+				<item value="C:\FilesAndArrays\teting\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\teting\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="GetDogs1">
+				<item value="C:\FilesAndArrays\GetDogs1\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\GetDogs1\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="great">
+				<item value="C:\FilesAndArrays\great\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\great\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="dashes">
+				<item value="C:\FilesAndArrays\dashes\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\dashes\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Pets">
+				<item value="C:\FilesAndArrays\Pets\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\Pets\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Ref">
+				<item value="C:\Users\TINA\workspace\Ref\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\TINA\workspace\Ref\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Review2">
+				<item value="C:\FilesAndArrays\Review2\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\Review2\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Review3">
+				<item value="C:\FilesAndArrays\Review3\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\Review3\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Lab4Prac">
+				<item value="C:\Users\TINA\workspace\Lab4Prac\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\TINA\workspace\Lab4Prac\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="MTShapes1">
+				<item value="C:\FilesAndArrays\MTShapes1\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\MTShapes1\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="file2">
+				<item value="C:\FilesAndArrays\file2\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\file2\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="file3">
+				<item value="C:\FilesAndArrays\file3\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\file3\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="JohnPrac">
+				<item value="C:\Users\TINA\workspace\JohnPrac\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\TINA\workspace\JohnPrac\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="file1">
+				<item value="C:\FilesAndArrays\file1\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\file1\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Fri">
+				<item value="C:\FilesAndArrays\Fri\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\Fri\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Main">
+				<item value="C:\FilesAndArrays\Main\javadoc.xml" key="antpath"/>
+				<item value="C:\FilesAndArrays\Main\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+		</section>
+	</section>
+	<section name="NewClassWizardPage">
+		<item value="false" key="create_constructor"/>
+		<item value="true" key="create_unimplemented"/>
+	</section>
+	<section name="RenameInformationPopup">
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item value="true" key="org.eclipse.jdt.ui.typecomment.deprecated"/>
+		<item value="false" key="javadocAntInformationDialog"/>
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="JavadocWizardDialog">
+		<item value="616" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="567" key="DIALOG_HEIGHT"/>
+		<item value="383" key="DIALOG_X_ORIGIN"/>
+		<item value="8" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="JavaSearchPage">
+		<item value="1" key="HISTORY_SIZE"/>
+		<item value="false" key="CASE_SENSITIVE"/>
+		<item value="11" key="INCLUDE_MASK"/>
+		<section name="HISTORY0">
+			<item value="false" key="isCaseSensitive"/>
+			<item value="" key="javaElement"/>
+			<item value="0" key="scope"/>
+			<item value="11" key="includeMask"/>
+			<item value="stocks" key="pattern"/>
+			<item value="2" key="limitTo"/>
+			<item value="0" key="matchLocations"/>
+			<item value="0" key="searchFor"/>
+			<list key="workingSets">
+			</list>
+		</section>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+</section>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="." destdir="doc" doctitle="mtawedro_a1" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" source="1.8" sourcefiles="src/Portfolio/Portfolio.java" sourcepath="src" splitindex="true" use="true" version="true">
+            <link href="file:/C:/Users/TINA/workspace/Stock_Project/doc/"/>
+        </javadoc>
+    </target>
+</project>

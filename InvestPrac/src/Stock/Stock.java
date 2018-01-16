@@ -1,0 +1,59 @@
+package Stock;
+
+public class Stock {
+
+	
+	
+	String symbol;
+	String Name;
+	int sharesNum;
+	double price;
+	double bookValue;
+	
+	public Stock(String compSymbol, String compName, int shares, double stockPrice, double book)
+	{
+	
+		this.symbol = compSymbol;
+		this.Name = compName;
+		this.sharesNum = shares;
+		this.price = stockPrice;
+		this.bookValue = book;
+			
+	}
+	
+	
+	public String toString()
+
+	{
+
+		String Data1= "Symbol:"+ this.symbol+"\n"+"Name:"+ this.Name +"\n";
+		String Data3= "Number of Shares:"+ this.sharesNum + "\n";
+		String Data8= "Price:"+ this.price+ "\n";
+		String Data9="Book Value:"+this.bookValue;
+		
+		String Data= Data1+Data3+ Data8+ Data9+ "\n";
+			
+		return Data;
+
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
